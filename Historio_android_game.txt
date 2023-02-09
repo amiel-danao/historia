@@ -1,0 +1,24 @@
+[]Graphics 2d Topdown, like Zelda
+
+[]Main Menu
+
+[]short intro of Historio
+
+Tutorial In game:
+[]Movements/Controls
+
+[]Unlock levels in Data Events
+
+[]Inspect items
+
+Levels
+[]1521 - find sword of lapu lapu
+[]1565 - find two certificates in castle(king Philip)
+[]1872 - talk to 3 fathers before they get executed
+[]1892 - gather men for kkk
+[]1896 - gather cedulas and give to the right people
+
+
+per level 6-10 mins average
+
+
